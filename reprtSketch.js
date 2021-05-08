@@ -351,7 +351,7 @@ if (FeedsNumber == 0) {
     rect(30, 590, 30, 20, 5, 5, 5, 5);
     fill(120);
     textFont(f, 10);
-    text("Inaccurate posts",72,572);
+    text("Inaccurate/false posts",72,572);
     text("Total consumed posts",72,602);
 
     textFont(f, 15);
@@ -396,6 +396,6 @@ if (FeedsNumber == 0) {
     rect(800, 60, 30, 20, 5, 5, 5, 5);
     fill(120);
     textFont(f, 10);
-    text("Inaccurate posts",842,42);
+    text("Inaccurate/false posts",842,42);
     text("Total consumed posts",842,72);
   }
