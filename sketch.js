@@ -703,7 +703,7 @@ function draw() {
 		translate(100, -100);
 		YourBubbleStyle32(9);
 		textFont(f, 10);
-		text("Outside bubble 4",-25,0);
+		text("Influencer 1",-25,0);
 
 		translate(200, -50);
 		YourBubbleStyle33(10);
@@ -719,7 +719,7 @@ function draw() {
 		translate(100, 200);
 		YourBubbleStyle32(12);
 		textFont(f, 10);
-		text("Outside bubble 7",-25,0);
+		text("Influencer 2",-25,0);
 
 		translate(100, -270);
 		YourBubbleStyle31(13);
